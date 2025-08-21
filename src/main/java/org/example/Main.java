@@ -4,7 +4,7 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static int addNumber(int x, int y) {
-        return x + y;
+        return x + y - 1;
     }
     public static void main(String[] args) {
     }
